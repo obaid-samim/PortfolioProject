@@ -6,7 +6,7 @@ import projectThree from "./images/projects/projectThree.jpg";
 import contactImg from "./images/contact/contactImg.png";
 import projectFour from "./images/projects/projectFour.jpg";
 import projectFive from "./images/projects/projectFive.jpg";
-import projectSix from "./images/projects/projectSIX.jpg";
+import projectSix from "./images/projects/projectSix.jpg";
 
 
 export {
